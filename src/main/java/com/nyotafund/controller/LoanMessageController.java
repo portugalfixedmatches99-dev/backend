@@ -10,7 +10,20 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/payments")
 @RequiredArgsConstructor
-@CrossOrigin
+
+@CrossOrigin(
+        origins = {
+                "https://nyotafund1.vercel.app/"
+        },
+        allowedHeaders = "*",
+        methods = {
+                RequestMethod.GET,
+                RequestMethod.POST,
+                RequestMethod.PUT,
+                RequestMethod.DELETE,
+                RequestMethod.OPTIONS
+        }
+)
 public class LoanMessageController {
 
     private final LoanMessageService service;
