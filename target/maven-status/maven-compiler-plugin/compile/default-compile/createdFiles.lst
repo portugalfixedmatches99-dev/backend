@@ -1,0 +1,9 @@
+com/nyotafund/LoanBackendApplication.class
+com/nyotafund/controller/LoanMessageController.class
+com/nyotafund/entity/LoanMessage.class
+com/nyotafund/repository/LoanApplicationRepository.class
+com/nyotafund/service/LoanApplicationService.class
+com/nyotafund/controller/LoanApplicationController.class
+com/nyotafund/entity/LoanApplication.class
+com/nyotafund/repository/LoanMessageRepository.class
+com/nyotafund/service/LoanMessageService.class

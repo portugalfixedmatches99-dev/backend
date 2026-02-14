@@ -1,0 +1,9 @@
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/repository/LoanApplicationRepository.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/repository/LoanMessageRepository.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/service/LoanApplicationService.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/LoanBackendApplication.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/controller/LoanMessageController.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/service/LoanMessageService.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/entity/LoanMessage.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/entity/LoanApplication.java
+/home/kipchirchir/loan-backend/src/main/java/com/nyotafund/controller/LoanApplicationController.java
