@@ -12,7 +12,7 @@ import java.util.List;
 @RequiredArgsConstructor
 @CrossOrigin(
         origins = {
-                "https://nyotafund1.vercel.app/"
+                "https://nyotafund-zeta.vercel.app"
         },
         allowedHeaders = "*",
         methods = {

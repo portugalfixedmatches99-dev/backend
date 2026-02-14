@@ -12,7 +12,7 @@ public class GlobalCorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // allow all endpoints
-                        .allowedOrigins("https://nyotafund1.vercel.app") // your frontend
+                        .allowedOrigins("https://nyotafund-zeta.vercel.app/") // your frontend
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // all HTTP methods
                         .allowedHeaders("*") // allow all headers
                         .allowCredentials(true); // allow cookies/auth headers if needed
